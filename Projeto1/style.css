@@ -1,0 +1,29 @@
+
+@import "./global/header.css";
+@import "./global/global.css";
+@import"./home/introducao.css";
+@import "./utilidades/componentes.css";
+@import "./utilidades/cores.css";
+@import"./utilidades/tipografia.css";
+@import "./bicicletas1/bicicletas-listas.css";
+@import "./utilidades/tipografia.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+@import"./seguros/seguros.css";
+@import"./home/footer.css";
+@import "./termos/termos.css";
+@import "./bicicletas.link/bicicletas.css";
+
+
+body {
+margin: 0px;
+font-family: Arial, Helvetica, sans-serif;
+background-color: #fff;
+}
+
+
+
+
+
+
